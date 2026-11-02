@@ -29,7 +29,7 @@
     "zone.js": "~0.15.0"
   },
   "devDependencies": {
-    "@angular/build": "^19.0.7",
+    "@angular/build": "^22.2.5",
     "@angular/cli": "^19.0.7",
     "@angular/compiler-cli": "^19.0.6",
     "@asyncapi/parser": "^3.4.0",
